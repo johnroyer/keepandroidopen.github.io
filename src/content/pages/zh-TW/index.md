@@ -15,7 +15,7 @@ site_copyright: "**版權:** 公有領域。本網站使用"
 open_letter_cta: "閱讀我們反對 Android 開發者驗證計畫的公開信"
 ---
 
-2025 年八月，Google [宣佈](https://developer.android.com/developer-verification?hl=zh-tw)由 2026 年九月開始，除非先集中於 Google 註冊，將不再可能開發應用程式供 Android 平臺上使用。此註冊將涉及：
+2025 年八月，Google [宣佈](https://developer.android.com/developer-verification?hl=zh-tw) 自 2026 年九月開始，除非先集中於 Google 註冊，將不再可能開發應用程式供 Android 平臺上使用。此註冊將涉及：
 
 - 向 Google 支付費用
 {:.li-list .li-money}
