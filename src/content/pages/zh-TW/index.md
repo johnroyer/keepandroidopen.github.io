@@ -24,9 +24,9 @@ open_letter_description: "倡導 Android 該當一個自由、開放平臺之公
 {:.li-list .li-money}
 - 同意 Google 的條款及細則
 {:.li-list .li-terms}
-- 提供政府簽發之身份證明文件
+- 提供政府核發之身份證明文件
 {:.li-list .li-id}
-- 上載該開發者之私密簽署金鑰的證據
+- 上傳該開發者之私密簽署金鑰的證據
 {:.li-list .li-signing}
 - 列出所有目前與未來的應用程式識別碼
 {:.li-list .li-appids}
