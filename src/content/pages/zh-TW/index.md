@@ -20,7 +20,7 @@ open_letter_description: "倡導 Android 該當一個自由、開放平臺之公
 
 2025 年八月，Google [宣佈](https://developer.android.com/developer-verification) 自 2026 年九月開始，除非先集中於 Google 註冊，否則將不再可能開發應用程式供 Android 平臺上使用。此註冊將涉及：
 
-- 向 Google 繳付費用
+- 向 Google 支付費用
 {:.li-list .li-money}
 - 同意 Google 的條款及細則
 {:.li-list .li-terms}
