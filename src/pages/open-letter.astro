@@ -30,7 +30,7 @@ function logoPath(url: string): string {
 // Build compose/draft URLs for each social platform
 function xDraftUrl(orgName: string, xUrl: string): string {
   const handle = '@' + xUrl.split('/').pop();
-  const text = `Thank you ${handle} for supporting Keep Android Open @AlteredDeal #keepandroidopen`;
+  const text = `Thank you ${handle} for supporting Keep @Android Open @AlteredDeal #keepandroidopen`;
   return `https://x.com/intent/tweet?text=${encodeURIComponent(text)}`;
 }
 
@@ -50,7 +50,7 @@ function mastodonDraftUrl(orgName: string, mastodonUrl: string): string {
 
 function linkedinDraftUrl(orgName: string, linkedinUrl: string): string {
   const handle = '@' + linkedinUrl.split('/').pop();
-  const text = `Thank you ${handle} for supporting Keep Android Open @keepandroidopen #keepandroidopen`;
+  const text = `Thank you ${handle} for supporting Keep @Android Open @keepandroidopen #keepandroidopen`;
   return `https://www.linkedin.com/sharing/share-offsite/?text=${encodeURIComponent(text)}`;
 }
 ---
