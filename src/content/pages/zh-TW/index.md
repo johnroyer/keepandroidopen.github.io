@@ -52,7 +52,7 @@ open_letter_description: "倡導 Android 該當一個自由、開放平臺之公
 
 ## 你可以如何出一份力 {#help}
 
-### 開發者: 堅決抵制！ {#developers}
+### 開發者：堅決抵制！ {#developers}
 
 如果你是應用程式開發者，懇請 _**不要註冊**_ 搶先體驗計畫並進行身分驗證，或者接受邀請加入 Android 開發人員控制台。（禮貌地）婉拒任何邀請，並列出你的疑慮和異議。
 
@@ -62,7 +62,7 @@ open_letter_description: "倡導 Android 該當一個自由、開放平臺之公
 
 如果你是一名有心的 Google 正職員工或約聘人員，並且對該計畫有更多了解，包括計畫中的技術實作細節或該計畫實施的其他緣由，請透過一台 _非工作_ 裝置和 _非Gmail_ 帳戶與[tips@keepandroidopen.org](mailto:tips@keepandroidopen.org)聯絡。你的資訊將被嚴格保密。
 
-### 所有人: 發出自己的聲音！ {#everyone}
+### 所有人：發出自己的聲音！ {#everyone}
 
 - 在你的 Android 裝置上[安裝 F-Droid](https://f-droid.org)。只要越多人使用其他替代的應用程式商店，就越難將其摒棄。
 - 使用[Android 開發者驗證要求調查](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1)直接向 Google 回饋意見。
